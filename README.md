@@ -3,7 +3,7 @@ the technologies that I use/familiar with, projects I've finished and uploaded t
 
 This website is not launched/hosted and was made for practice purposes. 
 
-Below are some screenshots of the website on a live server using Visual Studio Code. 
+Below are some screenshots of the website on a live server using Visual Studio Code. Keep in mind that there are CSS effects that can only be seen when actually running the website on a live server. 
 
 Home Section
 ![Screen Shot 2022-06-13 at 3 35 45 PM](https://user-images.githubusercontent.com/71080514/173431362-b81d8592-37c5-4c07-92ea-b9b5c3febe9e.png)
